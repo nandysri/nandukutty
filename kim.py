@@ -1,5 +1,5 @@
 print(2+3)
-print ("Classes and the functions")
+print ("Classes only")
 def main():
   for i in range(8):
     i = i +1
